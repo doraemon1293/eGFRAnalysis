@@ -1,7 +1,7 @@
 eGFRAnalysis
 ============
 
-Predict eGFR's trend by Naive Bayesian and Logistic regression 
+a data mining model in Python based on Naive Bayesian filter and Logistic Regression to predict eGFR's trend according to the patient's medical log to check how well the patient’s kidneys are working.
 
 mysqltest.py: get the raw data, which contains only the patient's ID, start date and groundtruth
 get_the_code.py: get the code according to the raw data to build the sample data
